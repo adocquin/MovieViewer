@@ -6,4 +6,4 @@ The API is the one from The Movie DB: https://www.themoviedb.org/documentation/a
 ![main view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/img/main_view.png)
 ![search menu](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/img/search_menu.png)
 ![top movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/img/top_movie_view.png)
-![bottom movie view](https://raw.githubusercontent.com/username/projectname/branch/path/to/bot_movie_view.png)
+![bottom movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/img/bot_movie_view.png)
