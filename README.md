@@ -13,4 +13,4 @@ Top movie view:
 ![top movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/img/top_movie_view.png)
 
 Bottom movie view:
-![main view](https://raw.githubusercontent.com/username/projectname/branch/path/to/bot_movie_view.png)
+![bottom movie view](https://raw.githubusercontent.com/username/projectname/branch/path/to/bot_movie_view.png)
