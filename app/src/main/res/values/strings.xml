@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieViewer</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="ref_sort_order_label">Sort Order</string>
+    <string name="ref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+    <string name="moviesRefreshed">Movies Refreshed</string>
+    <string name="fetchingMovies">Fetching movies...</string>
+    <string name="emptyAPIKey">Please obtain API Key firstly from themoviedb.org</string>
+    <string name="errorFetchingData">Error Fetching Data!</string>
+    <string name="noApiData">No API Data</string>
+    <string name="search">Search</string>
+    <string name="editSearch">Enter search here</string>
+    <string name="radioMovie">Movie</string>
+    <string name="radioActor">Actor</string>
+    <string name="radioCountry">Country</string>
+    <string name="popular">Popular movies</string>
+    <string name="top">Top movies</string>
+</resources>
