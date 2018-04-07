@@ -1,5 +1,5 @@
 # MovieViewer
-Project realised during my international exchange program at Ahlia University. The goal was to create an Android application that communicate with an API to see informations of movies.
+Project realized during my international exchange program at Ahlia University. The goal was to create an Android application that communicate with an API to see informations of movies.
 
 The API is the one from The Movie DB: https://www.themoviedb.org/documentation/api
 
