@@ -3,10 +3,10 @@ Project realized during my international exchange program at Ahlia University. T
 
 The API is the one from The Movie DB: https://www.themoviedb.org/documentation/api
 
-Demonstration:  
+## Demonstration:  
 ![demonstration](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/demonstration.gif)
 
-Screenshots:  
+### Screenshots:  
 ![main view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/main_view.png)
 ![search menu](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/search_menu.png)  
 ![top movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/top_movie_view.png)
