@@ -7,7 +7,7 @@ Demonstration:
 ![demonstration](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/demonstration.gif)
 
 Screenshots:
-![main view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/main_view.gif)
+![main view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/main_view.png)
 ![search menu](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/search_menu.png)  
-![top movie](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/top_movie.png)
-![bot movie](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/bot_movie.png)
+![top movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/top_movie_view.png)
+![bot movie view](https://raw.githubusercontent.com/aveldocquin/MovieViewer/master/docs/images/bot_movie_view.png)
